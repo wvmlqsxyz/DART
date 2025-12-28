@@ -14,4 +14,4 @@
 2) Spyder
 
 5. Link
-1) 
+1) https://www.notion.so/Python-2d42bc32f71b80bd93c5dd6404c0db41?source=copy_link
